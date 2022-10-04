@@ -1,7 +1,5 @@
 ### Hello there 👋
 
-<!--
-**HYP03/HYP03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm Camilo, I'm from Puerto Montt, in the south of Chile. Currently, I'm studying Electrical Engeneering at Universidad de la Frontera, Chile and a Minor Degree on Data Science. 
 
@@ -10,4 +8,4 @@ I'm Camilo, I'm from Puerto Montt, in the south of Chile. Currently, I'm studyin
 - 🤔 I’m looking for help with Deep Learning
 - 📫 How to reach me: Just give me some food and a good chat.
 - ⚡ Fun fact: I laugh at everything
--->
+
