@@ -6,7 +6,7 @@ I'm Camilo, I'm from Puerto Montt, in the south of Chile. Currently, I'm studyin
 - 🔭 I’m currently learning Data Mining and R
 - 🌱 I love the mountains, running and music.
 - 🤔 I’m looking for help with Deep Learning
-- 📫 How to reach me: Just give a good chat.
+- 📫 How to reach me: Just give a good chat at c.villegas03@ufromail.cl
 - ⚡ Fun fact: I laugh at everything
 
 ## Skills
